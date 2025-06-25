@@ -3,6 +3,9 @@
 I'm a Frontend Developer based in Ho Chi Minh City, specializing in Angular and ReactJS.  
 I love clean UI, performance optimization, and building real-world applications.
 
+📫 [minhvo2607dtu@gmail.com](mailto:minhvo2607dtu@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/minhvdv/)
+
 ---
 
 ### Frontend
@@ -40,7 +43,7 @@ I love clean UI, performance optimization, and building real-world applications.
 
 <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" /><br/>
 
 <br/>
 
@@ -50,6 +53,5 @@ I love clean UI, performance optimization, and building real-world applications.
 
 <br/>
 
-### Others
 
 
