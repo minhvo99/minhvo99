@@ -20,7 +20,7 @@ I love clean UI, performance optimization, and building real-world applications.
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px;" src="https://codekitapp.com/help/tailwind/" /><br />
+<img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/83f002b7-9d6d-4943-9207-efd517e56a7c" /><br />
 
 <br/>
 
